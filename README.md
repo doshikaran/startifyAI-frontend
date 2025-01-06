@@ -10,6 +10,9 @@ The **Startify Copilot Frontend** serves as the user interface for interacting w
 
 ---
 
+## Demo
+https://drive.google.com/file/d/1EPAxHCQkCmKgS2vtER61xLp4eYmBnFlg/view?usp=sharing
+
 ## 🛠️ **Features**  
 
 ### ✅ **1. Global Query Search**  
